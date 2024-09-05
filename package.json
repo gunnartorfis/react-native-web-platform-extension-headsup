@@ -2,6 +2,10 @@
   "name": "react-native-web-platform-extension-headsup",
   "displayName": "React Native Web Platform Extension Headsup",
   "description": "Give you a headsup if there's a platform specific filename for the one you currently have active.",
+  "publisher": "gunnartorfis",
+  "repository": {
+    "url": "https://github.com/gunnartorfis/react-native-web-platform-extension-headsup"
+  },
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.92.0"
